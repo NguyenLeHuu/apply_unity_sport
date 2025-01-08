@@ -1,0 +1,4 @@
+/node_modules
+/package-lock.json
+/decompressed_lzw.json
+/compressed_lzw.json
